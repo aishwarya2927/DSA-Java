@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/Bit_Manipulation/Bit_Manipulation.iml" filepath="$PROJECT_DIR$/Bit_Manipulation/Bit_Manipulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA-Practice-Java.iml" filepath="$PROJECT_DIR$/DSA-Practice-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Divide-And-Conquer/Divide-And-Conquer.iml" filepath="$PROJECT_DIR$/Divide-And-Conquer/Divide-And-Conquer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graphs/Graphs.iml" filepath="$PROJECT_DIR$/Graphs/Graphs.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashMap/HashMap.iml" filepath="$PROJECT_DIR$/HashMap/HashMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/Heaps/Heaps.iml" filepath="$PROJECT_DIR$/Heaps/Heaps.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
@@ -17,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tree/Tree.iml" filepath="$PROJECT_DIR$/Tree/Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trie/Trie.iml" filepath="$PROJECT_DIR$/Trie/Trie.iml" />
     </modules>
   </component>
 </project>
